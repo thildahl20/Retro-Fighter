@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ec731d64b74aa934a907f256bdebfcf7
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: c8eab03730b06154ea3857886d0780ca
+  - enabled: 1
+    path: Assets/Scenes/MainMedium.unity
+    guid: ac5a6631a56fdf9409bd54aa311eef71
+  - enabled: 1
+    path: Assets/Scenes/Boomer-Run!.unity
+    guid: 8a2d990857233af47a07cdbb426b748d
+  - enabled: 1
+    path: Assets/Scenes/AdaptiveBattle.unity
+    guid: 56a53bcec717e0a4ab77726921d514a6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Battle5.unity
+    guid: b6a2f5dfe17d988408b923ed2d8016f9
+  - enabled: 1
+    path: Assets/Scenes/Menu2.unity
+    guid: d0a8055bca76ed44f8fe72a4c6b995ae
+  - enabled: 1
+    path: Assets/Scenes/Battle4.unity
+    guid: d0513b5a589194e4d8f093edcc58d7a8
+  - enabled: 1
+    path: Assets/Scenes/Battle3.unity
+    guid: 995621a7f18f33144a4c6654e1754708
+  - enabled: 1
+    path: Assets/Scenes/Battle2.unity
+    guid: e5dabb9dba00a24409dd6de01bd61bce
+  - enabled: 1
+    path: Assets/Scenes/Battle1.unity
+    guid: 7dfc223e8bf67904f9feaaa9a77d8e3a
